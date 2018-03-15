@@ -18,3 +18,5 @@ Materiales:
 Software:
 - Programa Arduino: para realizar la programacion del Arduino UNO
 - fritzing: para realizar los esquemas del circuito.
+
+![Circuito Funcionando](https://github.com/Sarahi-Perez/Semaforo/blob/master/28169999_1597728776975891_1466166761_o.jpg "De 250 x 350 píxeles")
