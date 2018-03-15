@@ -2,7 +2,7 @@
 Semaforo en Arduino
 
 Programación de un semáforo de coches, con un semáforo de peatones, con botón. 
-Que, al presionar el botón, se cambia para que el peatón pueda cruzar. con un tiempo de espera 
+Que, al presionar el botón, se cambia para que el peatón pueda cruzar. Cuenta con un tiempo de espera 
 y parpadeo del led verde de coches antes de cambiar. El led verde de peatones también parpadea 
 antes de cambiar a verde.
 
