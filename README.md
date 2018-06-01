@@ -19,6 +19,10 @@ Software:
 - Programa Arduino: para realizar la programacion del Arduino UNO
 - fritzing: para realizar los esquemas del circuito.
 
+Archivos:
+- semaforo1.ino : es el codigo en arduino de este proyecto.
+- 
+
 ![Esquema del circuito](https://github.com/Sarahi-Perez/Semaforo/blob/master/esquema.jpg "Esquema del circuito en fritzing")
 
 
